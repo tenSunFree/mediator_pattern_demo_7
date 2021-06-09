@@ -8,6 +8,9 @@
 --------
 flutter-design-patterns                                                                 
 https://github.com/MangirdasKazlauskas/flutter-design-patterns     
+                  			
+VoiceTube 看影片學英語：免費學習英文聽力口說單字                                                                 
+https://play.google.com/store/apps/details?id=org.redidea.voicetube     
                   		 
 預覽
 --------
